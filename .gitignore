@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+data/
+
+# ignore hidden git junk
+.git
+.git (1)
+
+# optional
+*.zip
